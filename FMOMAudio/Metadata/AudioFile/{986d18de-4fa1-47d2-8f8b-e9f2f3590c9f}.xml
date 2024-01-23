@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{986d18de-4fa1-47d2-8f8b-e9f2f3590c9f}">
+		<property name="assetPath">
+			<value>zapsplat_multimedia_game_retro_8bit_kill_explode_jump_on.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.94040816326530607</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9676f27f-b7ef-45ff-bfd8-afebecaa7607}</destination>
+		</relationship>
+	</object>
+</objects>

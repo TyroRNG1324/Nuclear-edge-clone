@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="MixerGroup" id="{ed0240d7-0237-4a5f-943f-2343e656357e}">
+		<property name="name">
+			<value>CountDown</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{8b89df5e-63c9-4250-848a-fc051021bcf5}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{0f2e4878-8a85-4bf1-b91d-97e29d5be574}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{5b554830-f4e1-48a7-b03a-c35c1b227f55}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{8b89df5e-63c9-4250-848a-fc051021bcf5}">
+		<relationship name="effects">
+			<destination>{a7bf87f2-061b-469b-8ca1-4c3ab9fac94f}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{0f2e4878-8a85-4bf1-b91d-97e29d5be574}" />
+	<object class="MixerBusFader" id="{a7bf87f2-061b-469b-8ca1-4c3ab9fac94f}" />
+</objects>

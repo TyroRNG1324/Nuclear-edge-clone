@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{0cc72092-c594-43f7-8032-c86dd0227e12}">
+		<property name="assetPath">
+			<value>little_robot_sound_factory_Jingle_Achievement_00.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.992</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9676f27f-b7ef-45ff-bfd8-afebecaa7607}</destination>
+		</relationship>
+	</object>
+</objects>
